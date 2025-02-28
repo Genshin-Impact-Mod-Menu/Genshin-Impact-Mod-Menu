@@ -1,0 +1,1 @@
+console.log("Genshin Impact Mod Menu is active!");
